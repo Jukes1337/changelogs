@@ -1,1 +1,7 @@
 Version 2.0.1
+[ + ] Loader Updated
+[ + ] Key Sytem now on
+[ + ] Profile customization (Loader)
+[ + ] HWIDs Resets avaible
+[ + ] Improved VAC Bypass
+[ + ] Support (Ticket System) inside the Loader
